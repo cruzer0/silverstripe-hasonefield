@@ -1,5 +1,5 @@
 {
-    "name": "silvershop/silverstripe-hasonefield",
+    "name": "lpostiglione/silverstripe-hasonefield",
     "description": "Edit a has_one relationship using the gridfield editor, triggered by clicking a button.",
     "license": "BSD-2",
     "type": "silverstripe-module",
@@ -7,6 +7,10 @@
         {
             "name": "Jeremy Shipman",
             "email": "jeremy@burnbright.net"
+        },
+        {
+            "name": "Luca Postiglione",
+            "email": "luca@postiglione.me"
         }
     ],
     "minimum-stability": "dev",
